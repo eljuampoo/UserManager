@@ -68,6 +68,5 @@ Si un usuario denuncia a la empresa, puede recurrir a:
 - La empresa puede respaldarse jurídicamente mediante auditorías y protocolos de seguridad implementados.
 
 ## Colaboradores
-- Integrante 1
-- Integrante 2
-- Integrante 3
+- Juan Pablo Dominguez
+- Morena Ledesma
